@@ -1,14 +1,8 @@
 # ChatGPT Discord Bot
 
-> ### Build your own Discord bot using ChatGPT
->
----
-> **Warning**
-> #### 2023-03-27 Bard now supported
->
-> #### 2023-03-18 GPT-4 is now supported and the dependency packages have been updated. Please reinstall the dependencies once again
->
-> #### 2023-03-16 OpenAI has deactivated some accounts using UNOFFICIAL model. Recommend using OFFICIAL model
+## Disclaimer
+This bot was a fork from Zero6992 repo, the original link is https://github.com/Zero6992/chatGPT-discord-bot
+
 ## Features
 
 * `/chat [message]` Chat with ChatGPT!
